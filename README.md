@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me https://www.linkedin.com/in/shivansh-mehta-399427226/  
-- shivanshmehta0000@gmail.com
+- http://18shivanshmehtaa.pythonanywhere.com/
 - https://www.instagram.com/_shivansh.mehta_/
 
 
