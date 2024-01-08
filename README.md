@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshmehtaa&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshmehtaa" /> </p>
 
-- 🔭 I’m currently working on [React Native for developing Cross Platform Applications](https://github.com/ShivanshMehtaa/RNative)
+- 🔭 I’m currently working on [Next JS for developins seamless server based applications](https://github.com/ShivanshMehtaa/Promptopia)
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://shivanshmehta-shivanshmehta0000-gmailcom.vercel.app/](https://shivanshmehta-shivanshmehta0000-gmailcom.vercel.app/)
 
