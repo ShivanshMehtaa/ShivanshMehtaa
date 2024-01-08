@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshmehtaa&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshmehtaa" /> </p>
 
-- 🔭 I’m currently working on [Next JS for developins seamless server based applications](https://github.com/ShivanshMehtaa/Promptopia)
+- 🔭 I’m currently working on [Next JS for developing seamless server based applications](https://github.com/ShivanshMehtaa/Promptopia)
 
 - 🌱 I’m currently learning **Next JS**
 
